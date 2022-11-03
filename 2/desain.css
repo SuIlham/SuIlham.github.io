@@ -1,0 +1,38 @@
+header {
+    background-color: aquamarine;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    
+    }
+    .logo-kiri{
+        background-color: aliceblue;
+        width: 20%;
+        height: 100px;
+        float: left;
+    
+    }
+    .kop-surat{
+        background-color: cyan;
+        width: 60%;
+        height: 100px;
+        float: left;
+        text-align: center;
+    }
+    .logo-kanan{
+        background-color: azure;
+        width: 20%;
+        height: 100px;
+        float: right;
+    }
+    .gambar2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #judul{
+        margin: 10px 0px 0px 0px;
+        font-size: 30px;
+    }
+    #judul2{
+        margin: 0px 0px 0px 0px;
+    }
